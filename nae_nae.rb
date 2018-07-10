@@ -5,3 +5,5 @@ def hungry_lei
   sour_belts +=1
   end
 end
+
+hungry_lei
